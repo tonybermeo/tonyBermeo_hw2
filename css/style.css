@@ -1,0 +1,24 @@
+ul {
+	list-style: none;
+	list-style: inline;
+	padding-left: 600px;
+}
+
+li {
+	float: left;
+	margin-left: 5px;
+}
+
+#toplabel{
+	padding-top: 100px;
+	text-align: center;
+}
+
+img {
+	padding-left: 380px;
+}
+
+#footer{
+	text-align: center;
+}
+
