@@ -14,8 +14,12 @@ li {
 	text-align: center;
 }
 
-img {
+#image1 {
 	padding-left: 380px;
+}
+
+#image2{
+	padding-left: 485px;
 }
 
 #footer{
